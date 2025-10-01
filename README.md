@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suryatech27-cloud&show_icons=true&theme=radical" alt="suryatech27-cloud's GitHub stats" width="400"/>
-  
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=suryatech27-cloud&theme=radical&hide_border=true" width="400"/>
 </p>
 
 ---
